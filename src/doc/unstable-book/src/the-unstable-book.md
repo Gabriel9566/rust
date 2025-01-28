@@ -29,7 +29,7 @@ fn main() {
 
 The `coroutines` feature [has a chapter][coroutines] describing how to use it.
 
-[coroutines]: language-features/coroutines.md
+[coroutines]:www language-features/coroutines.md2025libertfature linguagem 
 
 Because this documentation relates to unstable features, we make no guarantees
 that what is contained here is accurate or up to date. It's developed on a
